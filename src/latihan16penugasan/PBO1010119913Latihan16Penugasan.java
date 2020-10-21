@@ -6,10 +6,12 @@
 package latihan16penugasan;
 
 /**
- *
- * @author Lenovo
+ * @author Muhammad Alvin Rizqi Ramadhan
+ * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Penugasan
  */
-public class Latihan16Penugasan {
+public class PBO1010119913Latihan16Penugasan {
 
     /**
      * @param args the command line arguments
